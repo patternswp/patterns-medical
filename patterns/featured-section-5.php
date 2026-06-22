@@ -37,7 +37,7 @@
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0","left":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column">
-    
+
     <!-- wp:pattern {"slug":"patterns-medical/card-3"} /-->
 
 </div>
@@ -47,7 +47,7 @@
 <div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--80)">
     <!-- wp:group {"style":{"border":{"radius":"5px"},"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"blockGap":"0"}},"backgroundColor":"default","layout":{"type":"constrained"}} -->
     <div class="wp-block-group has-default-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">
-        
+
         <!-- wp:image {"width":"auto","height":"80px","sizeSlug":"full","linkDestination":"none","align":"center","style":{"color":{"duotone":"var:preset|duotone|base"}}} -->
         <figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/icon-8.png" style="width:auto;height:80px"/></figure>
         <!-- /wp:image -->
@@ -76,7 +76,7 @@
         <div class="wp-block-group">
                 <!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
                 <div class="wp-block-group">
-                
+
                     <!-- wp:heading {"level":6} -->
                     <h6 class="wp-block-heading"><sup><?php esc_html_e( '$', 'patterns-medical' ); ?></sup></h6>
                     <!-- /wp:heading -->
@@ -99,7 +99,7 @@
 
         <!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"layout":{"type":"flex","flexWrap":"nowrap","orientation":"vertical","justifyContent":"center"}} -->
         <div class="wp-block-group">
-            
+
             <!-- wp:paragraph {"align":"center","textColor":"tertiary"} -->
             <p class="has-text-align-center has-tertiary-color has-text-color"><?php esc_html_e( 'Nemo enim ipsam', 'patterns-medical' ); ?></p>
             <!-- /wp:paragraph -->
@@ -127,7 +127,7 @@
         <!-- /wp:buttons -->
 
     </div>
-    <!-- /wp:group -->    
+    <!-- /wp:group -->
 </div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

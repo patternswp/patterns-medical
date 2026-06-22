@@ -12,7 +12,7 @@
 
 ?>
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"backgroundColor":"default","layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-default-background-color has-background">              
+    <div class="wp-block-group has-default-background-color has-background">
 
 
     <!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-5.jpg","dimRatio":0,"minHeight":450,"isDark":false,"style":{"border":{"radius":"5px"}}} -->

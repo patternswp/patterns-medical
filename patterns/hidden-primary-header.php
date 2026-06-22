@@ -18,20 +18,20 @@
 
 <!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide">
-    
+
  <!-- wp:pattern {"slug":"patterns-medical/site-identity"} /-->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"40px"}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"15px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group">
-    
+
 <!-- wp:image {"width":"40px","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|primary"}}} -->
 <figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/icon-1.png" style="width:40px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
-    
+
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"0.81rem"}},"textColor":"tertiary"} -->
 <p class="has-tertiary-color has-text-color" style="font-size:0.81rem;font-style:normal;font-weight:500"><?php esc_html_e( 'Call Us Any Time:', 'patterns-medical' ); ?></p>
 <!-- /wp:paragraph -->
@@ -53,7 +53,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
-    
+
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"0.81rem"}},"textColor":"tertiary"} -->
 <p class="has-tertiary-color has-text-color" style="font-size:0.81rem;font-style:normal;font-weight:500"><?php esc_html_e( 'Email Us At:', 'patterns-medical' ); ?></p>
 <!-- /wp:paragraph -->
@@ -92,9 +92,9 @@
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">
 
     <!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between","flexWrap":"wrap"}} -->
-    <div class="wp-block-group alignwide">	
-        
-  
+    <div class="wp-block-group alignwide">
+
+
         <!-- wp:pattern {"slug":"patterns-medical/navigation-menu"} /-->
 
         <!-- wp:group {"className":"pw-social-icons","layout":{"type":"flex","flexWrap":"nowrap"}} -->

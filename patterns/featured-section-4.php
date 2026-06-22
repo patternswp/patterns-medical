@@ -15,22 +15,22 @@
 <div class="wp-block-group alignfull"
     style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
 
-    <!-- wp:pattern {"slug":"patterns-medical/section-title-2"} /-->   
+    <!-- wp:pattern {"slug":"patterns-medical/section-title-2"} /-->
 
     <!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
     <div class="wp-block-columns alignwide are-vertically-aligned-center">
         <!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
         <div class="wp-block-column is-vertically-aligned-center">
             <!-- wp:pattern {"slug":"patterns-medical/card-2"} /-->
-           
+
         </div>
         <!-- /wp:column -->
 
         <!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
         <div class="wp-block-column is-vertically-aligned-center">
             <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"backgroundColor":"default","layout":{"type":"constrained"}} -->
-            <div class="wp-block-group has-default-background-color has-background">              
-   
+            <div class="wp-block-group has-default-background-color has-background">
+
 
                  <!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-6.jpg","dimRatio":0,"minHeight":450,"isDark":false,"style":{"border":{"radius":"5px"}}} -->
                 <div class="wp-block-cover is-light" style="border-radius:5px;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-6.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
@@ -58,8 +58,8 @@
         <!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
         <div class="wp-block-column is-vertically-aligned-center">
             <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"backgroundColor":"default","layout":{"type":"constrained"}} -->
-            <div class="wp-block-group has-default-background-color has-background">              
-   
+            <div class="wp-block-group has-default-background-color has-background">
+
 
                  <!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-7.jpg","dimRatio":0,"minHeight":450,"isDark":false,"style":{"border":{"radius":"5px"}}} -->
                 <div class="wp-block-cover is-light" style="border-radius:5px;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-7.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
@@ -85,8 +85,8 @@
         <!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
         <div class="wp-block-column is-vertically-aligned-center">
             <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"backgroundColor":"default","layout":{"type":"constrained"}} -->
-            <div class="wp-block-group has-default-background-color has-background">              
-   
+            <div class="wp-block-group has-default-background-color has-background">
+
 
                  <!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-8.jpg","dimRatio":0,"minHeight":450,"isDark":false,"style":{"border":{"radius":"5px"}}} -->
                 <div class="wp-block-cover is-light" style="border-radius:5px;min-height:450px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-8.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->

@@ -17,7 +17,7 @@
 <!-- /wp:image -->
 
 <!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0","padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
-<div class="wp-block-group alignfull" style="padding-right:0;padding-left:0">    
+<div class="wp-block-group alignfull" style="padding-right:0;padding-left:0">
 <!-- wp:heading {"textAlign":"left","level":5,"align":"wide","textColor":"base"} -->
 <h5 class="wp-block-heading alignwide has-text-align-left has-base-color has-text-color"><?php esc_html_e( 'Natalie Jones', 'patterns-medical' ); ?></h5>
 <!-- /wp:heading -->
