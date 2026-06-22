@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-06-21T20:55:08+00:00\n"
+"POT-Creation-Date: 2026-06-22T07:12:01+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: patterns-medical\n"
@@ -19,9 +19,6 @@ msgstr ""
 #: admin/templates/notice-getting-started.php:21
 #: admin/templates/page-theme-info.php:100
 #: admin/templates/page-theme-info.php:105
-#: deploy/patterns-medical/admin/templates/notice-getting-started.php:21
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:100
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:105
 msgid "Patterns Medical"
 msgstr ""
 
@@ -46,304 +43,243 @@ msgid "https://patternswp.com/"
 msgstr ""
 
 #: admin/class-info.php:80
-#: deploy/patterns-medical/admin/class-info.php:80
 msgid "Theme Info"
 msgstr ""
 
 #: admin/templates/notice-getting-started.php:18
 #: admin/templates/notice-review.php:20
-#: deploy/patterns-medical/admin/templates/notice-getting-started.php:18
-#: deploy/patterns-medical/admin/templates/notice-review.php:20
 msgid "Dismiss"
 msgstr ""
 
 #. translators: 1: welcome page link starting html tag, 2: welcome page link ending html tag.
 #: admin/templates/notice-getting-started.php:27
-#: deploy/patterns-medical/admin/templates/notice-getting-started.php:27
 #, php-format
 msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer, please make sure you visit our %2$swelcome page%3$s."
 msgstr ""
 
-#. translators: %s: singular/plular .
+#. translators: %s: singular/plural .
 #: admin/templates/notice-getting-started.php:43
-#: deploy/patterns-medical/admin/templates/notice-getting-started.php:43
 #, php-format
 msgid "Clicking the button below will install and activate the following %s:"
 msgstr ""
 
 #: admin/templates/notice-getting-started.php:44
-#: deploy/patterns-medical/admin/templates/notice-getting-started.php:44
 msgid "plugins"
 msgstr ""
 
 #: admin/templates/notice-getting-started.php:44
-#: deploy/patterns-medical/admin/templates/notice-getting-started.php:44
 msgid "plugin"
 msgstr ""
 
 #: admin/templates/notice-getting-started.php:54
-#: deploy/patterns-medical/admin/templates/notice-getting-started.php:54
 msgid "Get started with Patterns Medical"
 msgstr ""
 
 #. Translators: %1$s current user display name.
 #: admin/templates/notice-review.php:26
-#: deploy/patterns-medical/admin/templates/notice-review.php:26
 #, php-format
 msgid "Howdy, %1$s! It seems that you have been using this theme for more than 15 days. We hope you are happy with everything that the theme has to offer. If you can spare a minute, please help us by leaving a review on WordPress.org. By spreading the love, we can continue to develop new amazing features in the future!"
 msgstr ""
 
 #: admin/templates/notice-review.php:38
-#: deploy/patterns-medical/admin/templates/notice-review.php:38
 msgid "Sure"
 msgstr ""
 
 #: admin/templates/notice-review.php:43
-#: deploy/patterns-medical/admin/templates/notice-review.php:43
 msgid "Maybe later"
 msgstr ""
 
 #: admin/templates/notice-review.php:48
-#: deploy/patterns-medical/admin/templates/notice-review.php:48
 msgid "I already did"
 msgstr ""
 
 #: admin/templates/notice-review.php:53
-#: deploy/patterns-medical/admin/templates/notice-review.php:53
 msgid "Got theme support question?"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:21
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:21
 msgid "Welcome to Patterns Medical"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:25
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:25
 msgid "The Patterns Medical is now active and ready for use. Unleash your creativity with its extensive library of one-click demo Starter Packages, Patterns, and Pattern Kits."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:30
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:30
 msgid "Documentation"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:33
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:33
 msgid "Visit Starter Templates"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:44
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:44
 msgid "Use ready-made Design, Patterns, Templates & Template Parts"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:46
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:46
 msgid "Effortlessly use ready-made patterns, templates, and template parts to enhance your site design, making customization quick and easy without starting from scratch."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:49
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:49
 msgid "Add a new page"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:60
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:60
 msgid "Customize Templates, Template Parts & More"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:63
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:63
 msgid "With a block theme, you can customize every aspect of both the theme and the site, from headers and footers to individual blocks, providing a cohesive and personalized design."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:66
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:66
 msgid "Site Editor"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:77
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:77
 msgid "Transform your site's appearance with customizable fonts & colors"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:80
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:80
 msgid "Give your site a unique look by customizing fonts and colors. Achieve anything from subtle tweaks to complete makeovers, enhancing your  site's visual appeal and overall design."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:83
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:83
 msgid "Customize styles"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:108
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:108
 msgid "Visit Site"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:111
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:111
 msgid "Support"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:120
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:120
 msgid "Contact Information"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:131
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:131
 msgid "Support:"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:136
 #: admin/templates/page-theme-info.php:225
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:136
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:225
 msgid "Create A Ticket"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:147
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:147
 msgid "Location:"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:151
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:151
 msgid "Kathmandu, Nepal"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:181
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:181
 msgid "Knowledge Base"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:186
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:186
 msgid "In-depth and well documented articles will help you to use the Patterns Medical Themes in easiest way."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:189
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:189
 msgid "Visit Knowledge Base"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:199
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:199
 msgid "Community"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:204
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:204
 msgid "We want to make customer experience even better. So, join our Facebook community for instant support from experts."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:207
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:207
 msgid "Join Facebook Group"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:217
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:217
 msgid "24x7 Support"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:222
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:222
 msgid "We have dedicated support team 24*7 to help you in case you encounter any issue during and after the use of Patterns Medical."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:235
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:235
 msgid "Video Guide"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:240
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:240
 msgid "Patterns Medical Theme comes with detailed video tutorials of each and every customization with practical demonstration."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:243
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:243
 msgid "View Video Guide"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:262
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:262
 msgid "Recommended Plugins"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:287
 #: admin/templates/page-theme-info.php:292
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:287
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:292
 msgid "Installed and Activated"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:292
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:292
 msgid "Failed to install"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:295
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:295
 msgid "Activate"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:297
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:297
 msgid "Install and Activate"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:319
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:319
 msgid "Quick Links"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:325
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:325
 msgid "Edit Header"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:328
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:328
 msgid "Edit Footer"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:331
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:331
 msgid "Edit Primary Sidebar"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:334
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:334
 msgid "Edit Secondary Sidebar"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:337
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:337
 msgid "All template parts"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:340
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:340
 msgid "Edit Frontpage"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:343
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:343
 msgid "Edit Atchive Page"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:346
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:346
 msgid "All Templates"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:363
-#: deploy/patterns-medical/admin/templates/page-theme-info.php:363
 msgid "Frequently Asked Questions"
 msgstr ""
 
@@ -352,85 +288,69 @@ msgid "Changelog"
 msgstr ""
 
 #. translators: %s: Property name.
-#: deploy/patterns-medical/includes/api/class-api-settings.php:154
 #: includes/api/class-api-settings.php:154
 #, php-format
 msgid "The %s property has an invalid stored value, and cannot be updated to null."
 msgstr ""
 
-#: deploy/patterns-medical/includes/api/class-api.php:115
-#: deploy/patterns-medical/includes/api/class-api.php:127
 #: includes/api/class-api.php:115
 #: includes/api/class-api.php:127
 msgid "Cheatin&#8217; huh?"
 msgstr ""
 
-#: deploy/patterns-medical/includes/class-block-bindings.php:60
 #: includes/class-block-bindings.php:60
 msgctxt "Label for the copyright placeholder in the editor"
 msgid "&copy; YEAR"
 msgstr ""
 
-#: deploy/patterns-medical/includes/class-block-bindings.php:69
 #: includes/class-block-bindings.php:69
 msgctxt "Label for the archive title placeholder in the editor"
 msgid "Archive title"
 msgstr ""
 
 #. translators: Copyright date format, see https://www.php.net/manual/datetime.format.php
-#: deploy/patterns-medical/includes/class-block-bindings.php:94
 #: includes/class-block-bindings.php:94
 msgctxt "copyright date format"
 msgid "Y"
 msgstr ""
 
 #. translators: 1: Copyright symbol or word, 2: Date, 3: Site title
-#: deploy/patterns-medical/includes/class-block-bindings.php:97
 #: includes/class-block-bindings.php:97
 #, php-format
 msgid "%1$s %2$s %3$s"
 msgstr ""
 
 #. translators: %s is the search term.
-#: deploy/patterns-medical/includes/class-block-bindings.php:108
 #: includes/class-block-bindings.php:108
 #, php-format
 msgid "Search results for: \"%s\""
 msgstr ""
 
-#: deploy/patterns-medical/includes/class-block-bindings.php:112
-#: deploy/patterns-medical/patterns/navigation-menu.php:17
 #: includes/class-block-bindings.php:112
 #: patterns/navigation-menu.php:17
 msgid "Blog"
 msgstr ""
 
-#: deploy/patterns-medical/includes/class-include.php:85
 #: includes/class-include.php:85
 msgctxt "Block pattern category"
 msgid "Pages"
 msgstr ""
 
-#: deploy/patterns-medical/includes/class-include.php:86
 #: includes/class-include.php:86
 msgid "A collection of full page layouts."
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:27
 #: includes/functions.php:27
 msgid "Advanced Import"
 msgstr ""
 
 #. translators: %s the plugin info
-#: deploy/patterns-medical/includes/functions.php:67
 #: includes/functions.php:67
 #, php-format
 msgid "Not enough information about plugin. Plugin info %s"
 msgstr ""
 
 #. translators: %s is the plugin name
-#: deploy/patterns-medical/includes/functions.php:89
-#: deploy/patterns-medical/includes/functions.php:105
 #: includes/functions.php:89
 #: includes/functions.php:105
 #, php-format
@@ -438,8 +358,6 @@ msgid "Plugin \"%s\" is already active."
 msgstr ""
 
 #. translators: %1$s is the plugin name, %2$s is error message
-#: deploy/patterns-medical/includes/functions.php:119
-#: deploy/patterns-medical/includes/functions.php:250
 #: includes/functions.php:119
 #: includes/functions.php:250
 #, php-format
@@ -447,8 +365,6 @@ msgid "Error activating plugin \"%1$s\": %2$s"
 msgstr ""
 
 #. translators: %s is the plugin name.
-#: deploy/patterns-medical/includes/functions.php:130
-#: deploy/patterns-medical/includes/functions.php:236
 #: includes/functions.php:130
 #: includes/functions.php:236
 #, php-format
@@ -456,8 +372,6 @@ msgid "Plugin \"%s\" activated successfully."
 msgstr ""
 
 #. translators: %s is the plugin name.
-#: deploy/patterns-medical/includes/functions.php:139
-#: deploy/patterns-medical/includes/functions.php:261
 #: includes/functions.php:139
 #: includes/functions.php:261
 #, php-format
@@ -465,17 +379,12 @@ msgid "You don't have permission to activate the plugin \"%s\"."
 msgstr ""
 
 #. translators: %1$s is the plugin name, %2$s is error message
-#: deploy/patterns-medical/includes/functions.php:164
 #: includes/functions.php:164
 #, php-format
 msgid "Error retrieving information for plugin \"%1$s\": %2$s"
 msgstr ""
 
 #. translators: %1$s is the plugin name, %2$s is error message
-#: deploy/patterns-medical/includes/functions.php:183
-#: deploy/patterns-medical/includes/functions.php:193
-#: deploy/patterns-medical/includes/functions.php:203
-#: deploy/patterns-medical/includes/functions.php:223
 #: includes/functions.php:183
 #: includes/functions.php:193
 #: includes/functions.php:203
@@ -484,622 +393,58 @@ msgstr ""
 msgid "Error installing plugin \"%1$s\": %2$s"
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:213
 #: includes/functions.php:213
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
 msgstr ""
 
 #. translators: %s is the plugin name.
-#: deploy/patterns-medical/includes/functions.php:271
 #: includes/functions.php:271
 #, php-format
 msgid "Plugin \"%s\" installed and activated successfully."
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:305
 #: includes/functions.php:305
 msgid "and"
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:549
 #: includes/functions.php:557
 msgid "How can I customize the theme header?"
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:550
 #: includes/functions.php:558
 msgid "You can customize the theme header by editing the Header template part in the Site Editor. Go to Appearance > Editor > Patterns > Header, then select and edit the Header template part."
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:553
 #: includes/functions.php:561
 msgid "How do I change the footer credits?"
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:554
 #: includes/functions.php:562
 msgid "To change the footer credits, go to  Appearance > Editor > Patterns > Footer, then select and edit the Footer template part. You can add your own text or remove the existing credits."
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:557
 #: includes/functions.php:565
 msgid "Does this theme support block patterns?"
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:558
 #: includes/functions.php:566
 msgid "Yes, this theme includes several pre-designed block patterns that you can use to quickly create layouts. You can find these patterns in the block inserter."
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:561
 #: includes/functions.php:569
 msgid "How can I create custom templates?"
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:562
 #: includes/functions.php:570
 msgid "You can create custom templates by going to Appearance > Editor > Templates, then click Add New Template. You can then design your custom template using blocks."
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:565
 #: includes/functions.php:573
 msgid "How do I use global styles?"
 msgstr ""
 
-#: deploy/patterns-medical/includes/functions.php:566
 #: includes/functions.php:574
 msgid "To use global styles, go to Appearance > Editor > Styles, then click on the Edit icon in the top right side of Styles. From there, you can customize the colors, typography, and layout for your entire site."
-msgstr ""
-
-#: deploy/patterns-medical/patterns/archives.php:18
-#: patterns/archives.php:18
-msgid "Archives"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/calendar.php:18
-#: patterns/calendar.php:18
-msgid "Calendar"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-1.php:27
-#: patterns/card-1.php:27
-msgid "Emergency"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-1.php:36
-#: deploy/patterns-medical/patterns/card-3.php:34
-#: deploy/patterns-medical/patterns/featured-section-2.php:85
-#: deploy/patterns-medical/patterns/featured-section-2.php:117
-#: deploy/patterns-medical/patterns/featured-section-2.php:149
-#: deploy/patterns-medical/patterns/featured-section-5.php:68
-#: patterns/card-1.php:36
-#: patterns/card-3.php:34
-#: patterns/featured-section-2.php:85
-#: patterns/featured-section-2.php:117
-#: patterns/featured-section-2.php:149
-#: patterns/featured-section-5.php:68
-msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-2.php:26
-#: deploy/patterns-medical/patterns/card-4.php:22
-#: patterns/card-2.php:26
-#: patterns/card-4.php:22
-msgid "Natalie Jones"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-2.php:30
-#: deploy/patterns-medical/patterns/featured-section-2.php:76
-#: patterns/card-2.php:30
-#: patterns/featured-section-2.php:76
-msgid "Dental"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-3.php:26
-#: patterns/card-3.php:26
-msgid "Diamond Pack"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-3.php:47
-#: deploy/patterns-medical/patterns/featured-section-5.php:81
-#: patterns/card-3.php:47
-#: patterns/featured-section-5.php:81
-msgid "$"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-3.php:51
-#: patterns/card-3.php:51
-msgid "99"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-3.php:57
-#: deploy/patterns-medical/patterns/featured-section-5.php:91
-#: patterns/card-3.php:57
-#: patterns/featured-section-5.php:91
-msgid "/ Mo"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-3.php:70
-#: deploy/patterns-medical/patterns/featured-section-5.php:104
-#: patterns/card-3.php:70
-#: patterns/featured-section-5.php:104
-msgid "Nemo enim ipsam"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-3.php:74
-#: deploy/patterns-medical/patterns/featured-section-5.php:108
-#: patterns/card-3.php:74
-#: patterns/featured-section-5.php:108
-msgid "Voluptas sit aspernatur"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-3.php:78
-#: deploy/patterns-medical/patterns/featured-section-5.php:112
-#: patterns/card-3.php:78
-#: patterns/featured-section-5.php:112
-msgid "Beatae vitae vitae dicta"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-3.php:91
-#: deploy/patterns-medical/patterns/featured-section-5.php:125
-#: patterns/card-3.php:91
-#: patterns/featured-section-5.php:125
-msgid "Get Now"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/card-4.php:26
-#: deploy/patterns-medical/patterns/featured-section-4.php:49
-#: deploy/patterns-medical/patterns/featured-section-4.php:76
-#: deploy/patterns-medical/patterns/featured-section-4.php:103
-#: patterns/card-4.php:26
-#: patterns/featured-section-4.php:49
-#: patterns/featured-section-4.php:76
-#: patterns/featured-section-4.php:103
-msgid "Dental Assistant"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/comments.php:19
-#: patterns/comments.php:19
-msgid "Comments"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/copyright.php:18
-#: patterns/copyright.php:18
-msgid "Dynamic copyright text"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/copyright.php:23
-#: patterns/copyright.php:23
-msgid ". All Rights Reserved"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-1.php:36
-#: patterns/featured-section-1.php:36
-msgid "01"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-1.php:40
-#: deploy/patterns-medical/patterns/featured-section-1.php:57
-#: patterns/featured-section-1.php:40
-#: patterns/featured-section-1.php:57
-msgid "Lorem ipsum dolor sit amet"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-1.php:53
-#: patterns/featured-section-1.php:53
-msgid "02"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-1.php:70
-#: patterns/featured-section-1.php:70
-msgid "Know More"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-2.php:25
-#: patterns/featured-section-2.php:25
-msgid "our services"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-2.php:29
-#: patterns/featured-section-2.php:29
-msgid "We provide the best medical services for you and your family."
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-2.php:41
-#: deploy/patterns-medical/patterns/featured-section-5.php:31
-#: deploy/patterns-medical/patterns/featured-section-6.php:42
-#: deploy/patterns-medical/patterns/section-title-1.php:28
-#: patterns/featured-section-2.php:41
-#: patterns/featured-section-5.php:31
-#: patterns/featured-section-6.php:42
-#: patterns/section-title-1.php:28
-msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates perspiciatis"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-2.php:45
-#: patterns/featured-section-2.php:45
-msgid ""
-"Lorem ipsum dolor sit amet, consectetur\n"
-"                adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates perspiciatis"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-2.php:108
-#: patterns/featured-section-2.php:108
-msgid "Cardio"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-2.php:140
-#: patterns/featured-section-2.php:140
-msgid "Medicine"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-3.php:30
-#: patterns/featured-section-3.php:30
-msgid "20+"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-3.php:34
-#: patterns/featured-section-3.php:34
-msgid "Winning Award"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-3.php:47
-#: patterns/featured-section-3.php:47
-msgid "100K+"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-3.php:51
-#: patterns/featured-section-3.php:51
-msgid "Happy Customers"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-3.php:64
-#: patterns/featured-section-3.php:64
-msgid "20M+"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-3.php:68
-#: patterns/featured-section-3.php:68
-msgid "Working Hours"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-3.php:81
-#: patterns/featured-section-3.php:81
-msgid "100+"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-3.php:85
-#: patterns/featured-section-3.php:85
-msgid "Completed Projects"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-4.php:44
-#: patterns/featured-section-4.php:44
-msgid "David Green"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-4.php:72
-#: patterns/featured-section-4.php:72
-msgid "Amy Walker"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-4.php:99
-#: patterns/featured-section-4.php:99
-msgid "John Miles"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-5.php:19
-#: patterns/featured-section-5.php:19
-msgid "Choose your plan"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-5.php:23
-#: patterns/featured-section-5.php:23
-msgid "Our Affordable Pricing Plans"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-5.php:60
-#: patterns/featured-section-5.php:60
-msgid "Gold Pack"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-5.php:85
-#: patterns/featured-section-5.php:85
-msgid "79"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-6.php:25
-#: patterns/featured-section-6.php:25
-msgid "testimonials"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-6.php:29
-#: patterns/featured-section-6.php:29
-msgid "Our Clients Say"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-6.php:38
-#: patterns/featured-section-6.php:38
-msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-7.php:22
-#: patterns/featured-section-7.php:22
-msgid "Our Blogs"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-7.php:26
-#: patterns/featured-section-7.php:26
-msgid "Latest News &amp; Blogs"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-8.php:23
-#: patterns/featured-section-8.php:23
-msgid "Contact Us"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-8.php:27
-#: patterns/featured-section-8.php:27
-msgid "Have Questions? Get in Touch!"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-8.php:43
-#: patterns/featured-section-8.php:43
-msgid "Add Contact form shortcode"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-8.php:47
-#: patterns/featured-section-8.php:47
-msgid "* Call us 24/7 at 869-5414-5 or fill out the form below to receive a free and confidential initial consultation."
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-9.php:24
-#: deploy/patterns-medical/patterns/hidden-primary-header.php:36
-#: patterns/featured-section-9.php:24
-#: patterns/hidden-primary-header.php:36
-msgid "Call Us Any Time:"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-9.php:28
-#: deploy/patterns-medical/patterns/hidden-primary-header.php:40
-#: patterns/featured-section-9.php:28
-#: patterns/hidden-primary-header.php:40
-msgid "(808) 555-0111"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-9.php:42
-#: deploy/patterns-medical/patterns/hidden-primary-header.php:58
-#: patterns/featured-section-9.php:42
-#: patterns/hidden-primary-header.php:58
-msgid "Email Us At:"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-9.php:46
-#: deploy/patterns-medical/patterns/footer.php:54
-#: deploy/patterns-medical/patterns/hidden-primary-header.php:62
-#: patterns/featured-section-9.php:46
-#: patterns/footer.php:54
-#: patterns/hidden-primary-header.php:62
-msgid "info@example.com"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-9.php:60
-#: deploy/patterns-medical/patterns/hidden-primary-header.php:77
-#: patterns/featured-section-9.php:60
-#: patterns/hidden-primary-header.php:77
-msgid "Location"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/featured-section-9.php:64
-#: deploy/patterns-medical/patterns/hidden-primary-header.php:81
-#: patterns/featured-section-9.php:64
-#: patterns/hidden-primary-header.php:81
-msgid "6391 Elgin St. Celina, 10299"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/footer.php:20
-#: patterns/footer.php:20
-msgid "Choose Our Hospital, Choose The Best Care For Yourself"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/footer.php:27
-#: patterns/footer.php:27
-msgid "Address"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/footer.php:32
-#: patterns/footer.php:32
-msgid "785 15h Street, Office 478 Berlin, De 81566 6391 Elgin St. Celina, 10299"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/footer.php:49
-#: patterns/footer.php:49
-msgid "Say Hello"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/footer.php:58
-#: patterns/footer.php:58
-msgid "(629) 555-0129"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hero-banner-content.php:18
-#: patterns/hero-banner-content.php:18
-msgid "We Care For Every Patient"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hero-banner-content.php:22
-#: patterns/hero-banner-content.php:22
-msgid "Finest Patient Care &amp; Amenities Service"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hero-banner-content.php:32
-#: patterns/hero-banner-content.php:32
-msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio "
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hero-banner-content.php:41
-#: patterns/hero-banner-content.php:41
-msgid "Explore More"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-404.php:19
-#: patterns/hidden-404.php:19
-msgid "404"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-404.php:47
-#: patterns/hidden-404.php:47
-msgid "Ooops!"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-404.php:51
-#: patterns/hidden-404.php:51
-msgid "This page could not be found."
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-404.php:59
-#: patterns/hidden-404.php:59
-msgid "We can't find the page you're looking for. Check out our Help Center or head back to home"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-404.php:67
-#: patterns/hidden-404.php:67
-msgid "Back To Home"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-no-search-results.php:15
-#: patterns/hidden-no-search-results.php:15
-msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-no-search-results.php:19
-#: patterns/hidden-no-search-results.php:19
-msgctxt "label"
-msgid "Search"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-no-search-results.php:19
-#: patterns/hidden-no-search-results.php:19
-msgctxt "placeholder for search field"
-msgid "Search..."
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-no-search-results.php:19
-#: patterns/hidden-no-search-results.php:19
-msgid "Search"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-primary-header.php:104
-#: patterns/hidden-primary-header.php:104
-msgid "follow Us :"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-query-no-results.php:16
-#: patterns/hidden-query-no-results.php:16
-msgid "Page could not be found"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-query-no-results.php:20
-#: patterns/hidden-query-no-results.php:20
-msgid "We're sorry, the page you requested could not be found. Please go back to the homepage"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/hidden-query-no-results.php:25
-#: patterns/hidden-query-no-results.php:25
-msgid "Back to Home"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/latest-comments.php:16
-#: patterns/latest-comments.php:16
-msgid "Recent comments"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/latest-posts.php:16
-#: patterns/latest-posts.php:16
-msgid "Recent Posts"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/navigation-menu.php:14
-#: patterns/navigation-menu.php:14
-msgctxt "label"
-msgid "Home"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/navigation-menu.php:15
-#: patterns/navigation-menu.php:15
-msgid "About"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/navigation-menu.php:16
-#: patterns/navigation-menu.php:16
-msgid "Services"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/navigation-menu.php:18
-#: patterns/navigation-menu.php:18
-msgid "Contact"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/pagination.php:15
-#: patterns/pagination.php:15
-msgctxt "label"
-msgid "Previous"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/pagination.php:19
-#: patterns/pagination.php:19
-msgctxt "label"
-msgid "Next"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/post-meta.php:19
-#: patterns/post-meta.php:19
-msgid "Posted :"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/post-meta.php:26
-#: patterns/post-meta.php:26
-msgid "by :"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/scroll-to-top-button.php:17
-#: patterns/scroll-to-top-button.php:17
-msgid "Scroll To Top"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/section-title-1.php:16
-#: patterns/section-title-1.php:16
-msgid "welcome to PatternsWP"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/section-title-1.php:20
-#: patterns/section-title-1.php:20
-msgid "We Are Best Treatment For our Hospital."
-msgstr ""
-
-#: deploy/patterns-medical/patterns/section-title-2.php:19
-#: patterns/section-title-2.php:19
-msgid "Our Team"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/section-title-2.php:23
-#: patterns/section-title-2.php:23
-msgid "Book an Appointment to Get Quality Dental Services"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/sitemap.php:19
-#: patterns/sitemap.php:19
-msgid "Pages"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/sitemap.php:29
-#: patterns/sitemap.php:29
-msgid "Categories"
-msgstr ""
-
-#: deploy/patterns-medical/patterns/sitemap.php:39
-#: patterns/sitemap.php:39
-msgid "Posts"
 msgstr ""
 
 #: patterns/archives.php
@@ -1112,6 +457,10 @@ msgctxt "Pattern description"
 msgid "Display a date-based archive of posts, commonly placed in sidebars, footers, or site maps."
 msgstr ""
 
+#: patterns/archives.php:18
+msgid "Archives"
+msgstr ""
+
 #: patterns/calendar.php
 msgctxt "Pattern title"
 msgid "Calendar"
@@ -1120,6 +469,10 @@ msgstr ""
 #: patterns/calendar.php
 msgctxt "Pattern description"
 msgid "Display a calendar showing your site’s posts, commonly placed in sidebars, footers, or site maps."
+msgstr ""
+
+#: patterns/calendar.php:18
+msgid "Calendar"
 msgstr ""
 
 #: patterns/card-1.php
@@ -1135,9 +488,32 @@ msgctxt "Pattern description"
 msgid "A layout featuring an icon, title, and content, commonly used in repeated columns or as a standalone section."
 msgstr ""
 
+#: patterns/card-1.php:27
+msgid "Emergency"
+msgstr ""
+
+#: patterns/card-1.php:36
+#: patterns/card-3.php:34
+#: patterns/featured-section-2.php:85
+#: patterns/featured-section-2.php:117
+#: patterns/featured-section-2.php:149
+#: patterns/featured-section-5.php:68
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+msgstr ""
+
 #: patterns/card-2.php
 msgctxt "Pattern title"
 msgid "Card 2"
+msgstr ""
+
+#: patterns/card-2.php:26
+#: patterns/card-4.php:22
+msgid "Natalie Jones"
+msgstr ""
+
+#: patterns/card-2.php:30
+#: patterns/featured-section-2.php:76
+msgid "Dental"
 msgstr ""
 
 #: patterns/card-3.php
@@ -1145,9 +521,54 @@ msgctxt "Pattern title"
 msgid "Card 3"
 msgstr ""
 
+#: patterns/card-3.php:26
+msgid "Diamond Pack"
+msgstr ""
+
+#: patterns/card-3.php:47
+#: patterns/featured-section-5.php:81
+msgid "$"
+msgstr ""
+
+#: patterns/card-3.php:51
+msgid "99"
+msgstr ""
+
+#: patterns/card-3.php:57
+#: patterns/featured-section-5.php:91
+msgid "/ Mo"
+msgstr ""
+
+#: patterns/card-3.php:70
+#: patterns/featured-section-5.php:104
+msgid "Nemo enim ipsam"
+msgstr ""
+
+#: patterns/card-3.php:74
+#: patterns/featured-section-5.php:108
+msgid "Voluptas sit aspernatur"
+msgstr ""
+
+#: patterns/card-3.php:78
+#: patterns/featured-section-5.php:112
+msgid "Beatae vitae vitae dicta"
+msgstr ""
+
+#: patterns/card-3.php:91
+#: patterns/featured-section-5.php:125
+msgid "Get Now"
+msgstr ""
+
 #: patterns/card-4.php
 msgctxt "Pattern title"
 msgid "Card 4"
+msgstr ""
+
+#: patterns/card-4.php:26
+#: patterns/featured-section-4.php:49
+#: patterns/featured-section-4.php:76
+#: patterns/featured-section-4.php:103
+msgid "Dental Assistant"
 msgstr ""
 
 #: patterns/comments.php
@@ -1160,6 +581,10 @@ msgctxt "Pattern description"
 msgid "Display post comments."
 msgstr ""
 
+#: patterns/comments.php:19
+msgid "Comments"
+msgstr ""
+
 #: patterns/copyright.php
 msgctxt "Pattern title"
 msgid "Copyright"
@@ -1168,6 +593,14 @@ msgstr ""
 #: patterns/copyright.php
 msgctxt "Pattern description"
 msgid "Dynamic copyright text"
+msgstr ""
+
+#: patterns/copyright.php:18
+msgid "Dynamic copyright text"
+msgstr ""
+
+#: patterns/copyright.php:23
+msgid ". All Rights Reserved"
 msgstr ""
 
 #: patterns/featured-section-1.php
@@ -1188,9 +621,55 @@ msgctxt "Pattern description"
 msgid "A collection of various WordPress inbuilt blocks, such as headings, paragraphs, image, groups, and buttons, arranged in different positions to form a complete page layout."
 msgstr ""
 
+#: patterns/featured-section-1.php:36
+msgid "01"
+msgstr ""
+
+#: patterns/featured-section-1.php:40
+#: patterns/featured-section-1.php:57
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: patterns/featured-section-1.php:53
+msgid "02"
+msgstr ""
+
+#: patterns/featured-section-1.php:70
+msgid "Know More"
+msgstr ""
+
 #: patterns/featured-section-2.php
 msgctxt "Pattern title"
 msgid "Featured Section 2"
+msgstr ""
+
+#: patterns/featured-section-2.php:25
+msgid "our services"
+msgstr ""
+
+#: patterns/featured-section-2.php:29
+msgid "We provide the best medical services for you and your family."
+msgstr ""
+
+#: patterns/featured-section-2.php:41
+#: patterns/featured-section-5.php:31
+#: patterns/featured-section-6.php:42
+#: patterns/section-title-1.php:28
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates perspiciatis"
+msgstr ""
+
+#: patterns/featured-section-2.php:45
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur\n"
+"                adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates perspiciatis"
+msgstr ""
+
+#: patterns/featured-section-2.php:108
+msgid "Cardio"
+msgstr ""
+
+#: patterns/featured-section-2.php:140
+msgid "Medicine"
 msgstr ""
 
 #: patterns/featured-section-3.php
@@ -1198,9 +677,53 @@ msgctxt "Pattern title"
 msgid "Featured Section 3"
 msgstr ""
 
+#: patterns/featured-section-3.php:30
+msgid "20+"
+msgstr ""
+
+#: patterns/featured-section-3.php:34
+msgid "Winning Award"
+msgstr ""
+
+#: patterns/featured-section-3.php:47
+msgid "100K+"
+msgstr ""
+
+#: patterns/featured-section-3.php:51
+msgid "Happy Customers"
+msgstr ""
+
+#: patterns/featured-section-3.php:64
+msgid "20M+"
+msgstr ""
+
+#: patterns/featured-section-3.php:68
+msgid "Working Hours"
+msgstr ""
+
+#: patterns/featured-section-3.php:81
+msgid "100+"
+msgstr ""
+
+#: patterns/featured-section-3.php:85
+msgid "Completed Projects"
+msgstr ""
+
 #: patterns/featured-section-4.php
 msgctxt "Pattern title"
 msgid "Featured Section 4"
+msgstr ""
+
+#: patterns/featured-section-4.php:44
+msgid "David Green"
+msgstr ""
+
+#: patterns/featured-section-4.php:72
+msgid "Amy Walker"
+msgstr ""
+
+#: patterns/featured-section-4.php:99
+msgid "John Miles"
 msgstr ""
 
 #: patterns/featured-section-5.php
@@ -1208,9 +731,37 @@ msgctxt "Pattern title"
 msgid "Featured Section 5"
 msgstr ""
 
+#: patterns/featured-section-5.php:19
+msgid "Choose your plan"
+msgstr ""
+
+#: patterns/featured-section-5.php:23
+msgid "Our Affordable Pricing Plans"
+msgstr ""
+
+#: patterns/featured-section-5.php:60
+msgid "Gold Pack"
+msgstr ""
+
+#: patterns/featured-section-5.php:85
+msgid "79"
+msgstr ""
+
 #: patterns/featured-section-6.php
 msgctxt "Pattern title"
 msgid "Featured Section 6"
+msgstr ""
+
+#: patterns/featured-section-6.php:25
+msgid "testimonials"
+msgstr ""
+
+#: patterns/featured-section-6.php:29
+msgid "Our Clients Say"
+msgstr ""
+
+#: patterns/featured-section-6.php:38
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque"
 msgstr ""
 
 #: patterns/featured-section-7.php
@@ -1218,14 +769,69 @@ msgctxt "Pattern title"
 msgid "Featured Section 7"
 msgstr ""
 
+#: patterns/featured-section-7.php:22
+msgid "Our Blogs"
+msgstr ""
+
+#: patterns/featured-section-7.php:26
+msgid "Latest News &amp; Blogs"
+msgstr ""
+
 #: patterns/featured-section-8.php
 msgctxt "Pattern title"
 msgid "Featured Section 8"
 msgstr ""
 
+#: patterns/featured-section-8.php:23
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/featured-section-8.php:27
+msgid "Have Questions? Get in Touch!"
+msgstr ""
+
+#: patterns/featured-section-8.php:43
+msgid "Add Contact form shortcode"
+msgstr ""
+
+#: patterns/featured-section-8.php:47
+msgid "* Call us 24/7 at 869-5414-5 or fill out the form below to receive a free and confidential initial consultation."
+msgstr ""
+
 #: patterns/featured-section-9.php
 msgctxt "Pattern title"
 msgid "Featured Section 9"
+msgstr ""
+
+#: patterns/featured-section-9.php:24
+#: patterns/hidden-primary-header.php:36
+msgid "Call Us Any Time:"
+msgstr ""
+
+#: patterns/featured-section-9.php:28
+#: patterns/hidden-primary-header.php:40
+msgid "(808) 555-0111"
+msgstr ""
+
+#: patterns/featured-section-9.php:42
+#: patterns/hidden-primary-header.php:58
+msgid "Email Us At:"
+msgstr ""
+
+#: patterns/featured-section-9.php:46
+#: patterns/footer.php:54
+#: patterns/hidden-primary-header.php:62
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/featured-section-9.php:60
+#: patterns/hidden-primary-header.php:77
+msgid "Location"
+msgstr ""
+
+#: patterns/featured-section-9.php:64
+#: patterns/hidden-primary-header.php:81
+msgid "6391 Elgin St. Celina, 10299"
 msgstr ""
 
 #: patterns/footer.php
@@ -1236,6 +842,26 @@ msgstr ""
 #: patterns/footer.php
 msgctxt "Pattern description"
 msgid "A pattern for displaying the site footer."
+msgstr ""
+
+#: patterns/footer.php:20
+msgid "Choose Our Hospital, Choose The Best Care For Yourself"
+msgstr ""
+
+#: patterns/footer.php:27
+msgid "Address"
+msgstr ""
+
+#: patterns/footer.php:32
+msgid "785 15h Street, Office 478 Berlin, De 81566 6391 Elgin St. Celina, 10299"
+msgstr ""
+
+#: patterns/footer.php:49
+msgid "Say Hello"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "(629) 555-0129"
 msgstr ""
 
 #: patterns/header-absolute.php
@@ -1268,6 +894,22 @@ msgctxt "Pattern description"
 msgid "A layout that displays a title, content, and button group, suited for showcasing a hero banner."
 msgstr ""
 
+#: patterns/hero-banner-content.php:18
+msgid "We Care For Every Patient"
+msgstr ""
+
+#: patterns/hero-banner-content.php:22
+msgid "Finest Patient Care &amp; Amenities Service"
+msgstr ""
+
+#: patterns/hero-banner-content.php:32
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio "
+msgstr ""
+
+#: patterns/hero-banner-content.php:41
+msgid "Explore More"
+msgstr ""
+
 #: patterns/hero-banner.php
 msgctxt "Pattern title"
 msgid "Hero Banner"
@@ -1283,9 +925,47 @@ msgctxt "Pattern title"
 msgid "404"
 msgstr ""
 
+#: patterns/hidden-404.php:19
+msgid "404"
+msgstr ""
+
+#: patterns/hidden-404.php:47
+msgid "Ooops!"
+msgstr ""
+
+#: patterns/hidden-404.php:51
+msgid "This page could not be found."
+msgstr ""
+
+#: patterns/hidden-404.php:59
+msgid "We can't find the page you're looking for. Check out our Help Center or head back to home"
+msgstr ""
+
+#: patterns/hidden-404.php:67
+msgid "Back To Home"
+msgstr ""
+
 #: patterns/hidden-no-search-results.php
 msgctxt "Pattern title"
 msgid "No Search Result"
+msgstr ""
+
+#: patterns/hidden-no-search-results.php:15
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/hidden-no-search-results.php:19
+msgctxt "label"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-no-search-results.php:19
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/hidden-no-search-results.php:19
+msgid "Search"
 msgstr ""
 
 #: patterns/hidden-primary-header.php
@@ -1293,9 +973,25 @@ msgctxt "Pattern title"
 msgid "Primary Header"
 msgstr ""
 
+#: patterns/hidden-primary-header.php:104
+msgid "follow Us :"
+msgstr ""
+
 #: patterns/hidden-query-no-results.php
 msgctxt "Pattern title"
 msgid "Query No Result"
+msgstr ""
+
+#: patterns/hidden-query-no-results.php:16
+msgid "Page could not be found"
+msgstr ""
+
+#: patterns/hidden-query-no-results.php:20
+msgid "We're sorry, the page you requested could not be found. Please go back to the homepage"
+msgstr ""
+
+#: patterns/hidden-query-no-results.php:25
+msgid "Back to Home"
 msgstr ""
 
 #: patterns/hidden-single-post-content.php
@@ -1328,6 +1024,10 @@ msgctxt "Pattern description"
 msgid "Display latest comments, commonly placed in sidebars or footers."
 msgstr ""
 
+#: patterns/latest-comments.php:16
+msgid "Recent comments"
+msgstr ""
+
 #: patterns/latest-posts.php
 msgctxt "Pattern title"
 msgid "Latest Posts"
@@ -1336,6 +1036,10 @@ msgstr ""
 #: patterns/latest-posts.php
 msgctxt "Pattern description"
 msgid "Display latest posts, commonly placed in sidebars or footers."
+msgstr ""
+
+#: patterns/latest-posts.php:16
+msgid "Recent Posts"
 msgstr ""
 
 #: patterns/list-archive-both-sidebar.php
@@ -1398,6 +1102,23 @@ msgctxt "Pattern description"
 msgid "A pattern for displaying the site menu."
 msgstr ""
 
+#: patterns/navigation-menu.php:14
+msgctxt "label"
+msgid "Home"
+msgstr ""
+
+#: patterns/navigation-menu.php:15
+msgid "About"
+msgstr ""
+
+#: patterns/navigation-menu.php:16
+msgid "Services"
+msgstr ""
+
+#: patterns/navigation-menu.php:18
+msgid "Contact"
+msgstr ""
+
 #: patterns/page-about.php
 msgctxt "Pattern title"
 msgid "Page About"
@@ -1438,6 +1159,16 @@ msgctxt "Pattern description"
 msgid "Display pagination controls, commonly used within a query block."
 msgstr ""
 
+#: patterns/pagination.php:15
+msgctxt "label"
+msgid "Previous"
+msgstr ""
+
+#: patterns/pagination.php:19
+msgctxt "label"
+msgid "Next"
+msgstr ""
+
 #: patterns/post-meta.php
 msgctxt "Pattern title"
 msgid "Post Meta"
@@ -1446,6 +1177,14 @@ msgstr ""
 #: patterns/post-meta.php
 msgctxt "Pattern description"
 msgid "Display post meta information, commonly used within a query block."
+msgstr ""
+
+#: patterns/post-meta.php:19
+msgid "Posted :"
+msgstr ""
+
+#: patterns/post-meta.php:26
+msgid "by :"
 msgstr ""
 
 #: patterns/post-navigation.php
@@ -1508,6 +1247,10 @@ msgctxt "Pattern description"
 msgid "Display a button to scroll to the top of the page."
 msgstr ""
 
+#: patterns/scroll-to-top-button.php:17
+msgid "Scroll To Top"
+msgstr ""
+
 #: patterns/search-form.php
 msgctxt "Pattern title"
 msgid "Search Form"
@@ -1539,9 +1282,25 @@ msgctxt "Pattern description"
 msgid "A layout featuring a title, content, and button group in centered alignment, commonly used for section titles in feature areas."
 msgstr ""
 
+#: patterns/section-title-1.php:16
+msgid "welcome to PatternsWP"
+msgstr ""
+
+#: patterns/section-title-1.php:20
+msgid "We Are Best Treatment For our Hospital."
+msgstr ""
+
 #: patterns/section-title-2.php
 msgctxt "Pattern title"
 msgid "Section Title 2"
+msgstr ""
+
+#: patterns/section-title-2.php:19
+msgid "Our Team"
+msgstr ""
+
+#: patterns/section-title-2.php:23
+msgid "Book an Appointment to Get Quality Dental Services"
 msgstr ""
 
 #: patterns/single-header.php
@@ -1654,267 +1413,237 @@ msgctxt "Pattern description"
 msgid "A layout that displays site maps."
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
+#: patterns/sitemap.php:19
+msgid "Pages"
+msgstr ""
+
+#: patterns/sitemap.php:29
+msgid "Categories"
+msgstr ""
+
+#: patterns/sitemap.php:39
+msgid "Posts"
+msgstr ""
+
 #: theme.json
 #: styles/dark.json
 msgctxt "Color name"
 msgid "Base"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Color name"
 msgid "Default"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Color name"
 msgid "Primary"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Color name"
 msgid "Secondary"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Color name"
 msgid "Tertiary"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Color name"
 msgid "Quaternary"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Color name"
 msgid "Quinary"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Color name"
 msgid "Accent"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Duotone name"
 msgid "Base to Primary"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Duotone name"
 msgid "Base to Secondary"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Duotone name"
 msgid "White to Primary"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Duotone name"
 msgid "White to Accent"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Duotone name"
 msgid "Tertiary to Secondary"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 #: styles/dark.json
 msgctxt "Duotone name"
 msgid "Base to Quinary"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "Tiny"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "X-Small"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "Small"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "Medium"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "Regular"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "Large"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "X-Large"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "XX-Large"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Blank"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Page (with both sidebar)"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Page (with left sidebar)"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Page (with right sidebar)"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Single (with both sidebar)"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Single (with left sidebar)"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Single (with right sidebar)"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Comments"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Site Footer"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Site Header (with absolute position)"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Site Header (default)"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Archive Page Header"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Blog Home Page Header"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Search Page Header"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Post Meta"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Post Navigation"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Primary Sidebar"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Secondary Sidebar"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Single Header"
 msgstr ""
 
-#: deploy/patterns-medical/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Primary Header"
