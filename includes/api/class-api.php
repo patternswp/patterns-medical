@@ -36,14 +36,14 @@ if ( ! class_exists( 'Patterns_Medical_Api' ) ) {
 		/**
 		 * Rest route namespace.
 		 *
-		 * @var Patterns_Medical_Api
+		 * @var string
 		 */
 		public $namespace = 'patterns-medical/';
 
 		/**
 		 * Rest route version.
 		 *
-		 * @var Patterns_Medical_Api
+		 * @var string
 		 */
 		public $version = 'v1';
 
