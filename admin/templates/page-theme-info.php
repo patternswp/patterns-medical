@@ -25,7 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 					esc_html_e( 'The Patterns Medical is now active and ready for use. Unleash your creativity with its extensive library of one-click demo Starter Packages, Patterns, and Pattern Kits.', 'patterns-medical' );
 					?>
 				</p>
-			
+
 				<a href="https://patternswp.com/full-site-editing-fse-themes/patterns-medical" target="_blank" rel="noopener noreferrer nofollow" class="patterns-medical-gsn-btn patterns-medical-btn-outline button button-primary button-hero patterns-medical-install-plugins">
 					<?php esc_html_e( 'Documentation', 'patterns-medical' ); ?>
 				</a>
@@ -57,7 +57,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 					</svg>
 					<div class="welcome-panel-column-content">
 						<h3>
-							<?php esc_html_e( 'Customize Templates, Template Parts & More', 'patterns-medical' ); ?>    
+							<?php esc_html_e( 'Customize Templates, Template Parts & More', 'patterns-medical' ); ?>
 						</h3>
 						<p>
 							<?php esc_html_e( 'With a block theme, you can customize every aspect of both the theme and the site, from headers and footers to individual blocks, providing a cohesive and personalized design.', 'patterns-medical' ); ?>
@@ -121,7 +121,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 							</h4>
 						</div>
 						<div class="patterns-medical-card-body at-p at-p">
-							<div class="patterns-medical-intro-auth--info">								
+							<div class="patterns-medical-intro-auth--info">
 								<ul class="patterns-medical-personal-detail at-flx at-flx-col at-gap">
 									<li class="">
 										<dl class="at-flx at-al-itm-ctr at-gap">
@@ -135,7 +135,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 												<a href="https://wordpress.org/support/theme/patterns-medical" target="_blank" rel="noopener noreferrer nofollow">
 													<?php esc_html_e( 'Create A Ticket', 'patterns-medical' ); ?>
 												</a>
-											</dd>                                                        
+											</dd>
 										</dl>
 									</li>
 
@@ -149,7 +149,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 											</dt>
 											<dd class="at-m">
 												<?php esc_html_e( 'Kathmandu, Nepal', 'patterns-medical' ); ?>
-											</dd>                                                        
+											</dd>
 										</dl>
 									</li>
 								</ul>
@@ -164,7 +164,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 											<span class="dashicons dashicons-twitter"></span>
 										</a>
 									</li>
-								</ul>	
+								</ul>
 							</div>
 						</div>
 					</div>
@@ -305,7 +305,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 										<?php
 									}
 									?>
-								</div>				
+								</div>
 							</div>
 						</div>
 							<?php
@@ -380,6 +380,28 @@ if ( ! defined( 'ABSPATH' ) ) {
 												}
 												?>
 											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						<?php
+					}
+					?>
+					<?php
+					$changelog = function_exists( 'patterns_medical_parse_changelog' ) ? patterns_medical_parse_changelog() : '';
+					if ( $changelog ) {
+						?>
+							<div class="at-row">
+								<div class="at-col-12">
+									<div class="patterns-medical-card at-bg-cl at-bdr">
+										<div class="patterns-medical-card-header at-bdr at-p at-jfy-cont-st at-gap at-flx">
+											<span class="dashicons dashicons-backup"></span>
+											<h4 class="patterns-medical-card-header-ttl at-txt at-m">
+												<?php esc_html_e( 'Changelog', 'patterns-medical' ); ?>
+											</h4>
+										</div>
+										<div class="patterns-medical-card-body at-p">
+											<pre class="patterns-medical-changelog"><?php echo wp_kses_post( $changelog ); ?></pre>
 										</div>
 									</div>
 								</div>

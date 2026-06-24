@@ -15,7 +15,7 @@
 <div class="wp-block-group alignfull has-default-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|80"}}}} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center">
-    
+
 <!-- wp:image {"linkDestination":"none"} -->
 <figure class="wp-block-image"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-3.png" /></figure>
 <!-- /wp:image -->
@@ -25,7 +25,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"var:preset|spacing|40"}}} -->
 <div class="wp-block-column is-vertically-aligned-center">
-    
+
 <!-- wp:pattern {"slug":"patterns-medical/section-title-1"} /-->
 
  <!-- wp:group {"layout":{"type":"constrained"}} -->

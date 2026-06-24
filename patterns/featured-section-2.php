@@ -49,7 +49,7 @@
         <!-- /wp:column -->
     </div>
      <!-- /wp:columns -->
-      
+
     <!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
     <div class="wp-block-columns alignwide are-vertically-aligned-center">
         <!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->

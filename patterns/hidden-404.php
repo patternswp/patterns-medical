@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:404
+ * Title: 404
  * Slug: patterns-medical/hidden-404
  * Inserter: no
  *
@@ -73,7 +73,7 @@
 <!-- wp:spacer {"height":"var:preset|spacing|80","style":{"layout":{}}} -->
 <div style="height:var(--wp--preset--spacing--80)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
- 
+
 </div>
 <!-- /wp:group -->
 
